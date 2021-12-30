@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aplikasi Kasir</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="nama">Nama Customer</string>
+    <string name="masukkan_nama_anda_disini">Masukkan nama anda disini</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="masukkan_nama_produk_disini">Masukkan nama produk disini</string>
+    <string name="jumlah_produk">Jumlah Produk</string>
+    <string name="masukkan_jumlah_produk_disini">Masukkan jumlah produk disini</string>
+    <string name="harga">Harga</string>
+    <string name="masukkan_harga_disini">Masukkan harga disini</string>
+    <string name="simpan_data">Simpan Data</string>
+    <string name="nama_list">{nama}</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="nama_produk_list">{produk}</string>
+    <string name="jumlah_produk_list">{jumlah_produk}</string>
+    <string name="harga_list">{harga)</string>
+    <string name="edit_data">Edit Data</string>
+</resources>
