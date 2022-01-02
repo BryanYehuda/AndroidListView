@@ -26,7 +26,6 @@ public class Tambah_data extends AppCompatActivity {
         simpan=findViewById(R.id.simpan_data);
 
         kasirTbl = new KasirTbl(getApplicationContext());
-
         simpan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

@@ -27,7 +27,6 @@ public class Edit_data extends AppCompatActivity {
         getSupportActionBar().setTitle("Edit Data "+getIntent().getStringExtra("nama"));
         kasirTbl= new KasirTbl(getApplicationContext());
 
-        //Get Sent Data
         nama.setText(getIntent().getStringExtra("nama"));
         produk.setText(getIntent().getStringExtra("produk"));
         jumlah_produk.setText(getIntent().getStringExtra("jumlah_produk"));

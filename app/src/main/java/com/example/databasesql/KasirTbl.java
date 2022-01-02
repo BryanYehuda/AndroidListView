@@ -40,7 +40,6 @@ public class KasirTbl extends SQLiteOpenHelper {
 
     String random()
     {
-        // angka random 100-999
         int acak = new Random().nextInt(888+1)+100;
         return String.valueOf(acak);
     }
@@ -69,6 +68,5 @@ public class KasirTbl extends SQLiteOpenHelper {
     {
         return database.rawQuery("SELECT * FROM "+nama_table, null);
     }
-
 
 }
