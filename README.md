@@ -1,4 +1,12 @@
 # AndroidListView
+
+## English
+This repository is useful for storing the code needed to create an Android Application that has a ListView that uses a Custom Adapter and retrieves data from a CRUD database.
+
+This Repository has **MIT License.**   
+This license allows the user to make any changes to the program code. This license only requires the user to include the license and author's copyright in the redistributed code and there is no prohibition against using the trademark of the original author. In addition, the user also has no right to sue the manufacturer when there is damage to the software.
+
+## Bahasa
 Repository ini berguna untuk menyimpan kode yang dibutuhkan untuk membuat sebuah Aplikasi Android yang memiliki ListView yang menggunakan Custom Adapter dan Mengambil data dari Database secara CRUD.
 
 Repository ini memiliki **Lisensi MIT.**      
